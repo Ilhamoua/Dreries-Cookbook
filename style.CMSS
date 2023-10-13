@@ -1,0 +1,11 @@
+syle.html
+h1{color:blueviolet;
+      font-size: 54px;
+      font-weight: 900;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    h2{color: brown;
+    font-size: 51px;}
+
+    h3{float: left;} 
+    
